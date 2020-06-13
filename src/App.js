@@ -3,7 +3,7 @@ import Notebar from './components/Notebar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="ui container">
       <Notebar />
     </div>
   );
