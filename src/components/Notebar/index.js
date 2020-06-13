@@ -1,1 +1,1 @@
-export { default } from './notebar';
+export { default } from './Notebar';
